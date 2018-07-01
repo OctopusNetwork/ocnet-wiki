@@ -2,5 +2,5 @@
 Documents root of OcNet project
 
 ## Documents
-* HowToSyncAndCompileOcNetProject
+* HowToSyncAndCompileOcNetProject<br>
 https://github.com/OctopusNetwork/ocnet-wiki/blob/master/HowToSyncAndCompileOcNetProject.md
