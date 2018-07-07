@@ -1,14 +1,13 @@
 # What is OcNet
 
-## OcNet is a global network which is implemented based on the following technology</br>
+OcNet is a global network which is implemented based on the following technology</br>
 * Block chain</br>
 * Reliable transportation over UDP</br>
 * Raptor code</br>
 * BBR like congestion control</br>
 * Multi path transportation</br>
 * Multi link transportation balance</br>
-## OcNet want to build a network in which every network node could be accessed by others freely.
-Users in OcNet could provide service to others with their node. The service could be</br>
+OcNet want to build a network in which every network node could be accessed by others freely. Users in OcNet could provide service to others with their node. The service could be</br>
 * Bandwidth sharing</br>
 * Payment</br>
 * Live video communication</br>
